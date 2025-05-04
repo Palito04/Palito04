@@ -1,7 +1,7 @@
 - Hola, soy Palito04
 - Soy estudiante de la carrera Analista en sistemas
 - Me gusta codear, pero necesito experiencia 😓
-- Tengo 18 años
+- Tengo 19 años
 - Me gustan los videojuegos
 - Mi sueño es recorrer el mundo entero con una cámara, unos auriculares y una mochila
 <!---
